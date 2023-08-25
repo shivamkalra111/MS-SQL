@@ -1,6 +1,6 @@
-SQL Alchemy==2.0.20
-pandas==2.0.3
-pyodbc==4.0.39
+#SQL Alchemy==2.0.20
+#pandas==2.0.3
+#pyodbc==4.0.39
 
 
 from sqlalchemy.engine import URL
